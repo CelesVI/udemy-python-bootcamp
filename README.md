@@ -36,13 +36,14 @@ Catepillar
 
 Displot
 
-![Algorithm schema](./images/seaborn displot.png)
+![Algorithm schema](./images/seaborn distplot.png)
 
 Matrix plot
 
-![Algorithm schema](./images/seaborn matrix plot.png)
+![Algorithm schema](.images/seaborn matrix plot.png)
 
 Subplots
+
 ![Algorithm schema](./images/subplots.png)
 
 
