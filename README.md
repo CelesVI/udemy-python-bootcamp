@@ -28,7 +28,7 @@ Matchmaker
 
 Point plots
 
-![Algorithm schema](./images/Point plots.png)
+![Algorithm schema](./images/pointplots.png)
 
 Catepillar
 
@@ -36,11 +36,11 @@ Catepillar
 
 Displot
 
-![Algorithm schema](./images/seaborn distplot.png)
+![Algorithm schema](./images/distplot.png)
 
 Matrix plot
 
-![Algorithm schema](.images/seaborn matrix plot.png)
+![Algorithm schema](.images/matrix.png)
 
 Subplots
 
