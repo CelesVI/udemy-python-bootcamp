@@ -24,5 +24,25 @@ to data analysis with pandas, numpy, matplotlib and seaborn. Basic and advanced 
 # Screenshots
 Matchmaker
 
-![/images/Matchmaker.png]
+![Algorithm schema](./images/Matchmaker.png)
+
+Point plots
+
+![Algorithm schema](./images/Point plots.png)
+
+Catepillar
+
+![Algorithm schema](./images/catepillar.png)
+
+Displot
+
+![Algorithm schema](./images/seaborn displot.png)
+
+Matrix plot
+
+![Algorithm schema](./images/seaborn matrix plot.png)
+
+Subplots
+![Algorithm schema](./images/subplots.png)
+
 
